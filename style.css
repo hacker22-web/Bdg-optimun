@@ -1,0 +1,40 @@
+body {
+  background-color:black;
+  color: white;
+  text-align: center;
+  font-family: "Verdana",sans-serif;
+}
+img {
+  background: linear-gradient(lime,red);
+  filter: brightness(70%);
+  filter: contrast(200%);
+  filter: saturate(300%);
+  padding :20px 20px 20px 30px;
+  margin:40px;
+  height:200px;
+  width:800px;
+}
+
+a {
+  color: red;
+}
+
+h1 {
+  margin-top: 30px;
+  color:Gold;
+}
+
+h3 {
+  margin:20px;
+}
+
+p {
+  color:red
+}
+ h2 {
+   background: linear-gradient(lime,red);
+ }
+
+ script {
+   color:lightBlue;
+ }
